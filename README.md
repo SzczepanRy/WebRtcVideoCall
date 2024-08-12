@@ -1,0 +1,1 @@
+just gen yo cert
